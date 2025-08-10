@@ -1,0 +1,6 @@
+@'
+Contact: info@test.com, SALES@Shop.co
+Reach us: support@example.org or hr-team@my-company.io
+Random text, not-an-email@, another.one+tag@gmail.com
+'@ | Out-File -Encoding UTF8 .\emails_input.txt
+dj3#4232!@sararafi102@gmail.com4@!@!
