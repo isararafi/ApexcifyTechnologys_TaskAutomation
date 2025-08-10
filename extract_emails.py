@@ -28,7 +28,7 @@ def extract_emails_from_file(in_path: str, out_path: str) -> int:
     return len(emails)
 
 if __name__ == "__main__":
-    # Change these if your paths are different
+   
     input_txt  = r"C:\Apexcify_Internship\Task 2\emails_input.txt"
     output_txt = r"C:\Apexcify_Internship\Task 2\emails_output.txt"
 

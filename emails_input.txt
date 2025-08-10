@@ -4,3 +4,5 @@ Reach us: support@example.org or hr-team@my-company.io
 Random text, not-an-email@, another.one+tag@gmail.com
 '@ | Out-File -Encoding UTF8 .\emails_input.txt
 dj3#4232!@sararafi102@gmail.com4@!@!
+kelwkewkewkekali98#gmail.com
+kk34k3o43o4oayesha34@gmail.com
